@@ -1,2 +1,2 @@
 # CUGS
-ArcGIS WebApp created for App Challenge assignment for University of Calgary Urban GIS course 
+The Calgary Urban Green Space (CUGS) application provides a directory of all documented green spaces and outdoor recreation spaces within the City of Calgary boundaries. The application was designed with a human-centered approach. The goal was to make getting outside as easy and fun as possible! Additionally, this app has implications in the the future of GIS driven city planning. Urban planners can use the census data provided within the app to pinpoint locations with a lack of green space or recreation facilities in order to make outdoor recreation safe and accessibile for all. 
